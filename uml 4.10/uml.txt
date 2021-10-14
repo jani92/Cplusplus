@@ -1,0 +1,4 @@
+http://umich.edu/~eecs381/handouts/UMLNotationSummary.pdf
+https://cppcodetips.wordpress.com/2013/12/23/uml-class-diagram-explained-with-c-samples/
+http://www.cs.sjsu.edu/~pearce/modules/lectures/oop/basics/interfaces
+http://icarus.cs.weber.edu/~dab/cs1410/textbook/13.Polymorphism/virtandabstract.html

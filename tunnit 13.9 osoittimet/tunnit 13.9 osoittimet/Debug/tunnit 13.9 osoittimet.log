@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\C++\projektit\tunnit 13.9 osoittimet\tunnit 13.9 osoittimet\Source.cpp(38,6): error C2601: 'muutaNumero': local function definitions are illegal
+D:\C++\projektit\tunnit 13.9 osoittimet\tunnit 13.9 osoittimet\Source.cpp(5): message : this line contains a '{' which has not yet been matched
+D:\C++\projektit\tunnit 13.9 osoittimet\tunnit 13.9 osoittimet\Source.cpp(43,6): error C2601: 'muutaNumero': local function definitions are illegal
+D:\C++\projektit\tunnit 13.9 osoittimet\tunnit 13.9 osoittimet\Source.cpp(5): message : this line contains a '{' which has not yet been matched

@@ -1,0 +1,19 @@
+char merkkijono[20] = {"Merkkijono"}; //20 merkkiä varattu 
+char kaannetty[20] = {'\0'};
+
+
+int len = 0;
+for(int i = 0; merkkijono[i] != '\0';i++)
+{
+	len = i; //pannaan muistiin merkkijonon merkkien määrä	
+}
+
+/*käydään merkkijono nurinpäin merkki merkiltä ja sijoitetaan
+merkit kaannetty muuttujaan*/
+
+
+
+/*kun muunnat funktioksi, parametri voi olla muotoa char mj[] tai char* mj
+*/
+
+

@@ -1,0 +1,3 @@
+﻿  Työntekija.cpp
+D:\C++\projektit\Tunnit 16.9\Testaus\Testaus\Työntekija.h(6,9): error C3646: 'm_tunnus': unknown override specifier
+D:\C++\projektit\Tunnit 16.9\Testaus\Testaus\Työntekija.h(6,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int

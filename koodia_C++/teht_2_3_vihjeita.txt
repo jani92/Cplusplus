@@ -1,0 +1,10 @@
+.h:
+Henkilo(string nimi, long m_palkka);
+
+.cpp:
+Henkilo::Henkilo(string nimi, long palkka)
+{
+	this->m_nimi =  nimi;
+	this->m_palkka = palkka;
+
+}

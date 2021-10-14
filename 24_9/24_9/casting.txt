@@ -1,0 +1,7 @@
+(uusi tietotyyppi)tietotyyppi
+
+double dLuku = 15.6;
+
+int iLuku = (int)dLuku; //C -kielen casting
+
+int iLuku2 = int(dLuku); //C++ kielen tapa tehdä muunnos

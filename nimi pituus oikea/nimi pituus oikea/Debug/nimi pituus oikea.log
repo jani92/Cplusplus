@@ -1,0 +1,2 @@
+﻿Tehtava1.obj : error LNK2005: _main already defined in Main.obj
+D:\C++\projektit\nimi pituus oikea\Debug\nimi pituus oikea.exe : fatal error LNK1169: one or more multiply defined symbols found

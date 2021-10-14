@@ -1,0 +1,25 @@
+
+struct Pallo
+{
+	...
+	keskipiste ...
+	void tulosta()
+	{
+	...
+	}
+
+}
+
+struct keskipiste
+{
+
+};
+
+
+int main()
+{
+	Pallo p1;
+	...
+	p1.tulosta();
+	return 0;
+}

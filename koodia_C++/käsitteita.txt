@@ -1,0 +1,23 @@
+CHevonen hepo1;
+...
+
+CHevonen hepo2(hepo1); //kutsuttaisiin oletuskopiomuodostinta
+
+
+operaattorin uudelleenmäärittelyä ei voi tehdä:
+::
+?:
+.
+.*
+sizeof
+#
+
+yleisimpiä, joita voi uudelleenmäärittää:
+=
++
++=
+-
+-=
+<
+>
+

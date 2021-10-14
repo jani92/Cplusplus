@@ -1,0 +1,11 @@
+class CAuto
+{
+protected:
+ string rekisterinumero;
+ int vuosimalli;
+ string merkki;
+public:
+ string PalautaMerkki();
+ void TulostaTiedot();
+ CAuto(string rekisterinumero,int vuosimalli,string merkki);
+};

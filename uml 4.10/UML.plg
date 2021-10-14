@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: UML - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\TEMP\RSP89.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/UML.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\aaajuhankansio\Tehtäviä\UML\kulkuvaline.cpp"
+"D:\aaajuhankansio\Tehtäviä\UML\moottori.cpp"
+]
+Creating command line "cl.exe @C:\TEMP\RSP89.tmp" 
+Creating temporary file "C:\TEMP\RSP8A.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/UML.pdb" /debug /machine:I386 /out:"Debug/UML.exe" /pdbtype:sept 
+".\Debug\auto.obj"
+".\Debug\kori.obj"
+".\Debug\kulkuvaline.obj"
+".\Debug\main.obj"
+".\Debug\moottori.obj"
+".\Debug\vene.obj"
+]
+Creating command line "link.exe @C:\TEMP\RSP8A.tmp"
+<h3>Output Window</h3>
+Compiling...
+kulkuvaline.cpp
+moottori.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+UML.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
